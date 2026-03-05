@@ -1,9 +1,4 @@
 
-<link rel="stylesheet" href="style.css">
-<script src="script.js" defer></script>
-</head>
-<body>
-
 <div class="container">
     <h1>O.R.C.A. DATABASE</h1>
     <h3>Occult Research & Containment Agency</h3>
