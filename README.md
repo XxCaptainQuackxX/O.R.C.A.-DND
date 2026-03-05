@@ -1,5 +1,4 @@
-# O.R.C.A.
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
