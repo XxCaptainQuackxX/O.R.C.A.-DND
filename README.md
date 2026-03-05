@@ -28,6 +28,3 @@
     <!-- Add more anomalies here -->
 </ul>
 
-<script src="script.js"></script>
-</body>
-</html>
