@@ -1,8 +1,4 @@
 
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>O.R.C.A. Database</title>
 <link rel="stylesheet" href="style.css">
 <script src="script.js" defer></script>
 </head>
